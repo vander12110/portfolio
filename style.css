@@ -226,17 +226,15 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content: "Web Developerman";
+        content: "Web Developer";
     }
     21%, 40%{
-        content: "Flutter Developerman";
+        content: "Backend Developer";
     }
     41%, 60%{
-        content: "Web Dizaynerman";
+        content: "Web Dizayner";
     }
-    61%, 80%{
-        content: "Havaskorman";
-    }
+    
     81%, 100%{
         content: "Kiberxavsizlik Mutaxasisi";
     }
